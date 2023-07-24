@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "projectId": "material-inventory-941ab",
+  "private_key_id": "56c195324fa3d63ec2bd3d022d3dd643aec28e25",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDzsDx9uNAWBDk1\nKRt2Ux7d/zLO/skQ1E8TWIf13onrbAa3GNVa6gbnh9TIWY1d97zXmEieXIIu35qq\nLajj3s6C5VUGuS5+uGXOpIi9iy7EroqZydAZVp7uYIrNgKh3pZsY2N9MmK0LcKaW\ng15DcvFbH8kcTmVj1xtPO1X7uWKOw92mgtEUqWm728XhjnorC2Zd4ujJyhoTIm22\nHiSpNg3+3YZMf8ZCYy8+KGamLdoHv3FARdg8VcI+qBdmuamrTKhV0qtcn6ery15B\n2sOPey76dC2jlvVoIxQfh6Jel42tS/2vIbh3RWZ+rreWtWdsX3XNAicnXyc8MEyp\n7qZDiEZnAgMBAAECggEAC8vhucJLDG3K6ShixHEUovF6H6wUxqRIaarU9hF+Qq+5\niX6BwYNnryiTo9k17zERaqxcA5J92NAJOCi6rsE35P0+BvPK7OZ3QzAS0H4e1vWO\nDxDGapuXWPnCbl1GingxUFwbPyV65v1eixWz5/b1+Q/KV/zxioo8r7KzIFriiv+X\nGgtQg6A3jeUnY8b46clevedEM8I3EjATqUl699qwfw+PIkl5cYSIzjrr/TjFq1xb\n9rYMLIiMLIGfYdbMy2jpAlW0sjwxZFgZS2IsQNxo8m9U6Jtgxv3YISuOi8M/qJNV\nfZyXsU2ePI+XcCFpVLaxAbrmqFhZGaulFcg/fODdpQKBgQD7cPCqcqit3ZX7h5BS\nFcJ9eQ/X9TNnaNQ9vjai/1ZIBT3IjAmFckZOdZ7+LBy7lPCItQkiyAE5gSTeXypU\n8F0VH3WqNkI+DrbHEqsy9xT4KFR2xF2a8eeNWnFWlt8ku1RUh1qrdsCZgU8zDJBN\nut6JFn6HxpaUtFo7caTswMWsawKBgQD4G0/bRRslfKg2pdDASlu1gqkEFC6JUVQ2\nElw/1L/9/xtOuuKlcDXd8A7l0pEG4BCbZTBz4msm5SZF3OYQz0te0pGIjumGyAKV\nsWMoQYUDoiEO9C5jbelKP6U6H3NiD2F8IgBRjz2LksAl8vAB1p7swnbXewImzagX\nesClIB/M9QKBgDEES2ZvA8MhN2PZgaD+7PNY7mXDP0ohfX6r3irYbBGONAUsh46k\nQGB7PYt/PfqzhlCgOi+1nceADZfsJWx5jyvW/jE4cqF2bNtSIF3HHSdjdVPR5A2Y\nqvM7dmzS7J1Uh5QS7vIOLG3Ab5gcEuWUUF2ZLQF7DU/f+NctyGD/E4oRAoGABOcN\nQejwq2H2NPY71MDjZQfK7TC05rO7tUHRntVGYe97i6e3uMsp1VPcB4CMqxUcXuW1\n+mQ7983JXtIJncVq2NnSVF92j9o96tVRf0ckKLk4bAI5NG/Ej1oImshqUEK7i2dk\nmDf7YFmrAFT3lyG1jDoffQyKM1gW/TfIvLqQxk0CgYA7WHsXgJp1XlAZgAAtERbR\njkttwsWG3Lg19LSs7oywgVXHE2B8ZMC1pPrUbbgDcUo/qNSbK96KzEFF4TGhDGuB\njkiP+Poz6NVRTxkJ7kayaouhle0gl/XxvIY/nrfqqsk5MEbjC29wlqVPhEfd6Fpi\nU3eX8Xtz2dng9PQaBVDe9A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-f39tl@material-inventory-941ab.iam.gserviceaccount.com",
+  "client_id": "103893676482048124559",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-f39tl%40material-inventory-941ab.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
